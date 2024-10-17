@@ -1,3 +1,5 @@
+**Create database using MariaDB, create table, insert data, update data**
+- jeffrey_2602158784
 1. Create database Name_NIM -> jeffrey_2602158784
 2. Using the database, create table infoprib_784 with column nip as primary key, nama, kota, tgl_lahir, and jenis kelamin.
 3. Insert data into table infoprib_784
