@@ -1,0 +1,4 @@
+- Create database with my own name and NIM
+- Create table and insert data into it
+- Select data from created table and update data
+- Alter table
