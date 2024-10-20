@@ -1,4 +1,4 @@
-**Using MariaDB create database, create table, insert data, update data, select data**
+**Using MariaDB in XAMPP create database, create table, insert data, update data, select data**
 - documentation
 1. Create database Name_NIM -> jeffrey_2602158784
 2. Using the database, create table infoprib_784 with column nip as primary key, nama, kota, tgl_lahir, and jenis kelamin
